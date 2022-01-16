@@ -1,0 +1,5 @@
+.hero-section {
+  background-image: url("src/assets/images/pattern-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

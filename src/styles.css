@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+html, body {
+  font-family: 'Rubik', sans-serif;
+  background-image: linear-gradient(120deg, #45409c 0%, #5e84f0 100%);
+}
